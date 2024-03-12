@@ -1,0 +1,23 @@
+img {
+  width: 150px;
+  height: 150px;
+}
+body {
+  background: #80b4e5;
+}
+h1 {
+  font-weight: bold;
+  color: #5778ff;
+}
+h3{
+  color: #195ee6;
+}
+h5{
+  color: #2468f0;
+}
+h2{
+  color: #4070ce;
+}
+p{
+  color: #1a5ce0;
+}
